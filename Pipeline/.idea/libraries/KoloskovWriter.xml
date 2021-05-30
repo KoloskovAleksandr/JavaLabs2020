@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KoloskovWriter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artifacts/KoloskovWriter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

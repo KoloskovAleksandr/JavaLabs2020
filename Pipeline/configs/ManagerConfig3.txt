@@ -1,0 +1,9 @@
+INPUT=tests\input
+OUTPUT=tests\output
+READER_NAME=Reader
+READER_CONFIG=configs\KoloskovReaderConfig.txt
+SHIFT_FORMATTER_NAME=Executor
+SHIFT_FORMATTER_CONFIG=configs\KoloskovExecutorConfig.txt
+WRITER_NAME=ru.spbstu.Antonov_Aleksei.Writer
+WRITER_CONFIG=configs\AntonovWriterConfig.txt
+CHAIN=READER->SHIFT_FORMATTER->WRITER

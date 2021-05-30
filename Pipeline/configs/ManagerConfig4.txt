@@ -1,0 +1,11 @@
+INPUT=tests\input
+OUTPUT=tests\output
+READER_NAME=Reader
+READER_CONFIG=configs\KoloskovReaderConfig.txt
+SHIFT_FORMATTER_NAME=Executor
+SHIFT_FORMATTER_CONFIG=configs\KoloskovExecutorConfig.txt
+XOR_NAME=ru.spbstu.Antonov_Aleksei.XOR_Encoder
+XOR_CONFIG=configs\AntonovExecutorConfig.txt
+WRITER_NAME=Writer
+WRITER_CONFIG=configs\KoloskovWriterConfig.txt
+CHAIN=READER->SHIFT_FORMATTER->XOR->WRITER

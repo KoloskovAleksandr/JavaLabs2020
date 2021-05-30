@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KoloskovReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KoloskovReader_jar</output-path>
+    <root id="archive" name="KoloskovReader.jar">
+      <element id="module-output" name="KoloskovReader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/java-lab-interfaces-lab4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

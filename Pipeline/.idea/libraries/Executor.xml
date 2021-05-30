@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Executor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Executor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Reader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Writer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

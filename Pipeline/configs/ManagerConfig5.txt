@@ -1,0 +1,11 @@
+INPUT=tests\input
+OUTPUT=tests\output
+READER_NAME=Reader
+READER_CONFIG=configs\KoloskovReaderConfig.txt
+SHIFT_FORMATTER_1_NAME=Executor
+SHIFT_FORMATTER_1_CONFIG=configs\KoloskovExecutorConfig.txt
+SHIFT_FORMATTER_2_NAME=Executor
+SHIFT_FORMATTER_2_CONFIG=configs\KoloskovExecutorConfig.txt
+WRITER_NAME=Writer
+WRITER_CONFIG=configs\KoloskovWriterConfig.txt
+CHAIN=READER->SHIFT_FORMATTER_1->SHIFT_FORMATTER_2->WRITER

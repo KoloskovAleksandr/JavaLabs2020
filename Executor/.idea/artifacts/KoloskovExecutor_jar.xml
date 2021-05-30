@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KoloskovExecutor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KoloskovExecutor_jar</output-path>
+    <root id="archive" name="KoloskovExecutor.jar">
+      <element id="module-output" name="KoloskovExecutor" />
+    </root>
+  </artifact>
+</component>
